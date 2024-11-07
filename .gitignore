@@ -7,3 +7,6 @@ NOTEBOOKS/data/*
 SLIDES/MOVIE/*
 *.osp
 *.mkv
+PyTorch
+./NOTEBOOKS/data
+./NOTEBOOKS/PyTorch
