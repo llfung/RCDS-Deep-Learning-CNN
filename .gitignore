@@ -10,3 +10,4 @@ SLIDES/MOVIE/*
 PyTorch
 ./NOTEBOOKS/data
 ./NOTEBOOKS/PyTorch
+./NOTEBOOKS/runs
